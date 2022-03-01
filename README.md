@@ -10,3 +10,5 @@ Hence,
 Our project aims to Recognize Various Gestures and apply them as input to the computer.Sign language is an alternative method used by people who are unable to communicate with others by speech
 Sign language is an alternative method used by people who are unable to communicate with others by speech
 
+**PreProcessing - FLOW CHART :**
+![image](https://user-images.githubusercontent.com/92975269/156130922-d03654d0-b2c0-4f1f-8a03-b00d53b520be.png)
