@@ -7,7 +7,7 @@ import cv2
 
 d=0
 
-mypath="D:\WorkSpace\....." #Enter your dataset images path here 
+mypath="D:\WorkSpace\....." # Enter your dataset images path here 
 
 onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
 images = numpy.empty(len(onlyfiles), dtype=object)
@@ -27,7 +27,8 @@ for i in images:
   thresh = cv2.adaptiveThreshold(blur, 255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,  cv2.THRESH_BINARY_INV, 21, 4)
   ret,res = cv2.threshold(thresh, 10, 255, cv2.THRESH_BINARY_INV+cv2.THRESH_OTSU)
 
-  path = 'data\....' #Enter the path to store the converted images
+  # Enter the path to store the converted images
+  path = 'data\....' 
   
   cv2.imwrite(os.path.join(path , '%d.jpg'%d),res)
   d+=1  # names the stored images with 0,1,2,3......
