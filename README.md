@@ -1,5 +1,5 @@
-# ISL-GestureRecognition
-Indian Sign Language Hand Gesture Recognition
+# Hand Sign Gesture Translation
+Sign Language Hand Gesture Translation
 
 A Normal person if visits a mute person and try to communicate with him, will face difficulties in trying to
 understand what a mute person is trying to express. These kind of people cannot spend normal life. They face a lot 
