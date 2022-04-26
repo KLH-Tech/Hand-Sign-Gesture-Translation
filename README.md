@@ -1,4 +1,4 @@
-# Hand Sign Gesture Translation
+# Sign-Language-Gesture-Translator
 Sign Language Hand Gesture Translation
 
 A Normal person if visits a mute person and try to communicate with him, will face difficulties in trying to
@@ -10,10 +10,7 @@ Hence,
 Our project aims to Recognize Various Gestures and apply them as input to the computer.Sign language is an alternative method used by people who are unable to communicate with others by speech
 Sign language is an alternative method used by people who are unable to communicate with others by speech
 
-**PreProcessing - FLOW CHART :**
-![image](https://user-images.githubusercontent.com/92975269/156130922-d03654d0-b2c0-4f1f-8a03-b00d53b520be.png)
 
-# Sign-Language-Gesture-Translator
 Using TensorFlow to translate Sign Language in real-time. **_Final Release_**
 
 The Sign Language Translator is my final project for Grade 12 Computer Science and the <a href="https://tensorflow.devpost.com/">⚡#PoweredByTF 2.0 Challenge!</a>. Its purpose is to allow users to communicate more effectively with their computers and other people. To be specific, using this program, you can sign multiple words with one gesture and copy the translated text with the click of a button.  
