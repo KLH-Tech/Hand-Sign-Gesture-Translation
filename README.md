@@ -8,7 +8,7 @@ A Sign Language Interpreter is
 needed for such type of people to ease their life.
 Hence,
 Our project aims to Recognize Various Gestures and apply them as input to the computer.Sign language is an alternative method used by people who are unable to communicate with others by speech
-Sign language is an alternative method used by people who are unable to communicate with others by speech
+Sign language is an alternative method used by people who are unable to communicate with others by speech.
 
 
 Using TensorFlow to translate Sign Language in real-time. **_Final Release_**
