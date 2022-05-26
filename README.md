@@ -15,6 +15,22 @@ Using TensorFlow to translate Sign Language in real-time. **_Final Release_**
 
 The Sign Language Translator is my final project for Grade 12 Computer Science and the <a href="https://tensorflow.devpost.com/">⚡#PoweredByTF 2.0 Challenge!</a>. Its purpose is to allow users to communicate more effectively with their computers and other people. To be specific, using this program, you can sign multiple words with one gesture and copy the translated text with the click of a button.  
 
+## OUTPUT
+![image](https://user-images.githubusercontent.com/92975269/170410857-56d9a806-1bf9-437e-9404-ca6bb6d14438.png)
+## Traning Gestures 
+![image](https://user-images.githubusercontent.com/92975269/170410871-c0fef384-b8fb-4f36-a002-cb7c6f3a9608.png)
+![image](https://user-images.githubusercontent.com/92975269/170410880-49e218fe-0bd8-4c03-a4f6-fc8c573f8ec4.png)
+![image](https://user-images.githubusercontent.com/92975269/170410914-bd252526-cb55-4130-84bf-02ed32926ea0.png)
+![image](https://user-images.githubusercontent.com/92975269/170410926-61fbfc3a-c3e0-43b3-9134-46f4b1c236c8.png)
+
+## Translation 
+![image](https://user-images.githubusercontent.com/92975269/170410990-38091a64-5e37-402f-b2a4-559c247db30b.png)
+![image](https://user-images.githubusercontent.com/92975269/170411007-e63c879a-d31f-4331-9a41-1760db6816b8.png)
+![image](https://user-images.githubusercontent.com/92975269/170411027-945f4f37-b983-4629-a956-c47f2adf6c54.png)
+![image](https://user-images.githubusercontent.com/92975269/170411039-7993c75c-a4ef-4626-aec6-4b253f4b7204.png)
+![image](https://user-images.githubusercontent.com/92975269/170411053-8b7fa928-40b9-452f-9f5c-75f4f52d6458.png)
+
+
 ## Features
 - [x] Hand Gesture Training and Classification
 - [x] Prediction works in varying Lighting Conditions
