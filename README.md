@@ -25,7 +25,7 @@ The Sign Language Translator is my final project for Grade 12 Computer Science a
 
 ## Translation 
 ![image](https://user-images.githubusercontent.com/92975269/170410990-38091a64-5e37-402f-b2a4-559c247db30b.png)
-![image](https://user-images.githubusercontent.com/92975269/170411007-e63c879a-d31f-4331-9a41-1760db6816b8.png)
+
 ![image](https://user-images.githubusercontent.com/92975269/170411027-945f4f37-b983-4629-a956-c47f2adf6c54.png)
 ![image](https://user-images.githubusercontent.com/92975269/170411039-7993c75c-a4ef-4626-aec6-4b253f4b7204.png)
 ![image](https://user-images.githubusercontent.com/92975269/170411053-8b7fa928-40b9-452f-9f5c-75f4f52d6458.png)
